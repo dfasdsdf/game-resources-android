@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 36770803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f9a1d0e60c3da67a9b416a3568ba971
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9f9a1d0e60c3da67a9b416a3568ba971
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Audios/103.mp3
+Dependencies: []
