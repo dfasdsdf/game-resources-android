@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1755581297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d0a96d3247360f3d390b27b69a4d872
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d0a96d3247360f3d390b27b69a4d872
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/Room/100002.png
+Dependencies: []
