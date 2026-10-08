@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1918081653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd40ec146d73c937059a6d47464a0248
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06f631ffe5ac23ab9453d679f6a4c96e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd40ec146d73c937059a6d47464a0248
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Prefabs/Bullet/bullet_4.prefab
+Dependencies: []

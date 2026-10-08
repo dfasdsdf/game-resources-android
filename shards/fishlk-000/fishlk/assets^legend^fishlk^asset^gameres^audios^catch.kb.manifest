@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3181028198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2d29db19b443e74aba58ae2f4f49d6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2d29db19b443e74aba58ae2f4f49d6a
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/catch.ogg
+Dependencies: []
