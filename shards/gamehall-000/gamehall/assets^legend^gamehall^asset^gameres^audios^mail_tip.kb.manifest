@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2270754912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2155a8b2c901ad1584cb24c87f9d4a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c2155a8b2c901ad1584cb24c87f9d4a2
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Audios/mail_tip.mp3
+Dependencies: []
