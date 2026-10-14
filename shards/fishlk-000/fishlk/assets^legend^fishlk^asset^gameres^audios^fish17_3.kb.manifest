@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1252821812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1314c66e5b8e3b2a46b11eb13efa06e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1314c66e5b8e3b2a46b11eb13efa06e5
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/fish17_3.ogg
+Dependencies: []

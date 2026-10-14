@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1519125838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77a323d6894184f767929a819cb1348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b77a323d6894184f767929a819cb1348
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/ion_fire.ogg
+Dependencies: []

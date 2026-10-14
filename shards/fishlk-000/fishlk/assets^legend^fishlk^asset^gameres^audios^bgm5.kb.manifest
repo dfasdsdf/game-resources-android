@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 470870708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bad8d930d9ac9675b36e0e8b4e9017d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bad8d930d9ac9675b36e0e8b4e9017d1
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/bgm5.ogg
+Dependencies: []
