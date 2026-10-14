@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1605496812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50effd6f357f8f8b7cbcf79b4b53f827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50effd6f357f8f8b7cbcf79b4b53f827
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/xiongdiwushu3.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3354376837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d3363efa9d1a5d4fc41027a43dc0c7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d3363efa9d1a5d4fc41027a43dc0c7f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/gundong.mp3
+Dependencies: []
