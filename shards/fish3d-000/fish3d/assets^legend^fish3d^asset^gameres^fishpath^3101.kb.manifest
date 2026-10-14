@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 317074678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e060feae195acd9c3c584d08e5632ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa4550c8ed739a241b91c8f54575bd23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e060feae195acd9c3c584d08e5632ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/FishPath/3101.prefab
+Dependencies: []
