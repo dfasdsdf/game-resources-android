@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1581543137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d417ebf62fe83c7a30709ed6d5b6bba5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d417ebf62fe83c7a30709ed6d5b6bba5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Line/Line1_18.png
+Dependencies: []

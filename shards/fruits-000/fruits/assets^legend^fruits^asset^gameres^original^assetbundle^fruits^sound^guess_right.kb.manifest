@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1112465469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d73f0b2e8eea7e1a353774fcd91bd48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d73f0b2e8eea7e1a353774fcd91bd48
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/guess_right.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3251011183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c452d4e3bb11daf1196f215fc2cb4a63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c452d4e3bb11daf1196f215fc2cb4a63
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Animations/FruitWin.anim
+Dependencies: []

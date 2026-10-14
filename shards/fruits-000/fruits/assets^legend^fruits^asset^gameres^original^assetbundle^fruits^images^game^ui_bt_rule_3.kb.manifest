@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4233924413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ed9ff2bdf3c8276341ae282bf3c0db0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ed9ff2bdf3c8276341ae282bf3c0db0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_Rule_3.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 920486917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d092c8d9cf6bfbf97d68e2db0b86e04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d092c8d9cf6bfbf97d68e2db0b86e04
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Bonus/UI_Fruit_Figher.PNG
+Dependencies: []

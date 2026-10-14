@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2449882568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d602f2f3cb738f9b5c0c5bc7ea12334b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d602f2f3cb738f9b5c0c5bc7ea12334b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_compare_point11.mp3
+Dependencies: []
