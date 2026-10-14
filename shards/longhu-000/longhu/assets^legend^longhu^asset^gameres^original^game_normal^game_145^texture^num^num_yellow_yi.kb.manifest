@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 806342052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abef9506eebb744e22385f0772463239
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: abef9506eebb744e22385f0772463239
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Yellow_yi.png
+Dependencies: []

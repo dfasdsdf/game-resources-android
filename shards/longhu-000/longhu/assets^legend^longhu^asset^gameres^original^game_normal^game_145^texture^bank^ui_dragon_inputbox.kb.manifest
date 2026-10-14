@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3717364818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2108b42da66ef3eb7574f845bc83fc01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2108b42da66ef3eb7574f845bc83fc01
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Bank/UI_Dragon_Inputbox.PNG
+Dependencies: []

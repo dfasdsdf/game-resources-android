@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2994818535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dee6570d0ba2321be6390538cad9ae7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7dee6570d0ba2321be6390538cad9ae7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Images/UI_Room_Level2.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1865760695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 097bda53aab61f17c4e1d204f0b87dab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 097bda53aab61f17c4e1d204f0b87dab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Station_Waiting.png
+Dependencies: []

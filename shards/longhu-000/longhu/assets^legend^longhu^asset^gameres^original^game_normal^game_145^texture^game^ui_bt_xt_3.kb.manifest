@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2756204846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27c07835b1d00a4a8ef17213579c430d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27c07835b1d00a4a8ef17213579c430d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_BT_XT_3.png
+Dependencies: []

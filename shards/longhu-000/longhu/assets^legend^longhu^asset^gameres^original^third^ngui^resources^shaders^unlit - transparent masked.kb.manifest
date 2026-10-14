@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3042646888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e00e76385e15d5155e3ea8bd839a1509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e00e76385e15d5155e3ea8bd839a1509
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Third/NGUI/Resources/Shaders/Unlit
+  - Transparent Masked.shader
+Dependencies: []

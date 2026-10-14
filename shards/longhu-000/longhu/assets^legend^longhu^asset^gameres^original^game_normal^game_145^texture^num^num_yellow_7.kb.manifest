@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3580148226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a2182a2f94be2e0215e1aa17b30700f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3a2182a2f94be2e0215e1aa17b30700f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Yellow_7.PNG
+Dependencies: []

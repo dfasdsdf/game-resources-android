@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1573785498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65ec613b9181f008161601b95b8eac2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65ec613b9181f008161601b95b8eac2c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Bank/UI_BT_100w_3.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3713341504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1220ee3b7c820a6dcf786e2e6f583510
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1220ee3b7c820a6dcf786e2e6f583510
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Audio/dragon.mp3
+Dependencies: []

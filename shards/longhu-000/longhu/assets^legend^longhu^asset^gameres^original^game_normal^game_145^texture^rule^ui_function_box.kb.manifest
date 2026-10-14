@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2260946646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d59eb024e63682b3c6d95f8a1f73102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d59eb024e63682b3c6d95f8a1f73102
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Rule/UI_Function_Box.png
+Dependencies: []

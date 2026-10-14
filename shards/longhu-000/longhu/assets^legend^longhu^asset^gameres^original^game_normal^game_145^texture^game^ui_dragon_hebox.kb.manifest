@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 645857647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09e13ffceee2e0f661c5ea88f587cde9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 09e13ffceee2e0f661c5ea88f587cde9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Hebox.png
+Dependencies: []

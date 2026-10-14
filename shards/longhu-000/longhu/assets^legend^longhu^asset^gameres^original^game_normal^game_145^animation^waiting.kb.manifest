@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1358990662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c8a0157899ff1cc205e9969ae7581f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5c8a0157899ff1cc205e9969ae7581f5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/Waiting.anim
+Dependencies: []
