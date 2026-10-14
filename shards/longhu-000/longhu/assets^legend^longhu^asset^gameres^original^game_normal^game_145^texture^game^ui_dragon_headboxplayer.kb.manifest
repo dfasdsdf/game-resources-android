@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3617261058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e3a7415d483c03ad6f0e593b06c7407
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e3a7415d483c03ad6f0e593b06c7407
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_HeadboxPlayer.png
+Dependencies: []

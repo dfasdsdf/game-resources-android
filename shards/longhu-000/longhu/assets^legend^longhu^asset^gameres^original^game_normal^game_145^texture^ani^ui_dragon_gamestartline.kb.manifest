@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1745379883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a405b82e0383004b399d42402ae6bdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a405b82e0383004b399d42402ae6bdd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/UI_Dragon_GameStartLine.PNG
+Dependencies: []

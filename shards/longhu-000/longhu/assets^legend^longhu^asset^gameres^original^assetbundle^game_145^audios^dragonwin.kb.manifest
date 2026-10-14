@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 736594392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8329f515af1c41b45a35a600b25f8ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8329f515af1c41b45a35a600b25f8ce
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/DragonWin.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4275882629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80cff0c18b6947db8cf2ebc97d962f21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 80cff0c18b6947db8cf2ebc97d962f21
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/Function.anim
+Dependencies: []

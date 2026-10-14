@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4124643564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fabd19b571d702370ce98ce4a02ff85c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fabd19b571d702370ce98ce4a02ff85c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger13.png
+Dependencies: []

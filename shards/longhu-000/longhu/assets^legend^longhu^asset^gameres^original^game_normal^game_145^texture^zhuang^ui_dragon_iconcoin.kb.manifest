@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1301491860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee841da7cb30f9bfc11760145ea778c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee841da7cb30f9bfc11760145ea778c1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Zhuang/UI_Dragon_IconCoin.png
+Dependencies: []
