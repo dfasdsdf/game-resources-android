@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1274802012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a97c5d26608df85f7630afe47e49689
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3a97c5d26608df85f7630afe47e49689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/bank_1000w.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1119929156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a283604ffaa01d1e3bc4087b0366132
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a283604ffaa01d1e3bc4087b0366132
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/jsaniatlas_08.png
+Dependencies: []

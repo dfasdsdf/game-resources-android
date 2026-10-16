@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1831558758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97c99b98effc9392b4beef4a35fb16ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97c99b98effc9392b4beef4a35fb16ff
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/title_rule.png
+Dependencies: []

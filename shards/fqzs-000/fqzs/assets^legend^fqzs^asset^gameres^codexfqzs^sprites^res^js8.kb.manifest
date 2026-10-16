@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2649897847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7459859e4dc7cd655e8d82a5724913d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7459859e4dc7cd655e8d82a5724913d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/js8.png
+Dependencies: []

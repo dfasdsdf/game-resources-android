@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1605250171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37779afdaa0cca835c27db83646015df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37779afdaa0cca835c27db83646015df
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Effect/Times.anim
+Dependencies: []

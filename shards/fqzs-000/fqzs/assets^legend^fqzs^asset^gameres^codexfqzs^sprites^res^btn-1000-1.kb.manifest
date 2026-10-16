@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2691727424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4015b303526ac9e32f286766c8fcf60f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4015b303526ac9e32f286766c8fcf60f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-1000-1.png
+Dependencies: []

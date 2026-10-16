@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 259820120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9b9bdbfe5dc1a774e027d9e5e2976e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9b9bdbfe5dc1a774e027d9e5e2976e6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/shark.png
+Dependencies: []
