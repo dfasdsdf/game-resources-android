@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2162602963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f60b95854e0790be43bd0e66c9d94c1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f60b95854e0790be43bd0e66c9d94c1c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tongpei/fqzs_tongpei.png
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/tongpei/fqzs_tongpei.json
+Dependencies: []

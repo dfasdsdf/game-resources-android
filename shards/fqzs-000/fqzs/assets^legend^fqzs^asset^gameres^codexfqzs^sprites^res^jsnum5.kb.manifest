@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3560557335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf0f111cb40270d269d647988943440b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf0f111cb40270d269d647988943440b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/jsnum5.png
+Dependencies: []

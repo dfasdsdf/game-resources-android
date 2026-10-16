@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 335052810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49fe126634f96ca6e18b593a2df984cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 49fe126634f96ca6e18b593a2df984cb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/info_bg.png
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4054611281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f76705af39d41bc175835dff8aa9327c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f76705af39d41bc175835dff8aa9327c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/jinsha/fqzs_jinsha.png
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/jinsha/fqzs_jinsha.json
+Dependencies: []

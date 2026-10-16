@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2927024449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c527071dc9edcfe0b67787e9cfcfcd28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c527071dc9edcfe0b67787e9cfcfcd28
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/jinsha_1.png
+Dependencies: []

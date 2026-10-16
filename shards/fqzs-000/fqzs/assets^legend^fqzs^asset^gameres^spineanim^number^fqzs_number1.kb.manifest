@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3951509901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89abb5a153143adc534ef11d36fe7196
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 89abb5a153143adc534ef11d36fe7196
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/number/fqzs_number1.png
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/number/fqzs_number1.json
+Dependencies: []

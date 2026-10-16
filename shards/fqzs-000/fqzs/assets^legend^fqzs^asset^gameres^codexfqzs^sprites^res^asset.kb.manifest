@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 742219308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e1fac153ec3174cbf58b01c5027f4f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3e1fac153ec3174cbf58b01c5027f4f3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/asset.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 963758805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8e0bdc9e493def94d14ab733be87345
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a8e0bdc9e493def94d14ab733be87345
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/tuzi.wav
+Dependencies: []
