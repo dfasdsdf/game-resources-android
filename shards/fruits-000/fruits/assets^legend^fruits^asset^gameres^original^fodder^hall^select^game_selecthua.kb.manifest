@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3710912568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acc8f5efb98cb3f1e73dd912d93f65d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: acc8f5efb98cb3f1e73dd912d93f65d6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/Fodder/Hall/Select/game_selecthua.png
+Dependencies: []

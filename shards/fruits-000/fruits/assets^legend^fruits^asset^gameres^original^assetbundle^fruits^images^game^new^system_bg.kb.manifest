@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 773512653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c11040f7c7f40f32d021663fc861a1dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c11040f7c7f40f32d021663fc861a1dd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/system_bg.png
+Dependencies: []

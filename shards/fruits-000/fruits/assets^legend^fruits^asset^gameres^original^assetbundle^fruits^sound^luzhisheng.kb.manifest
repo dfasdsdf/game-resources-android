@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1368550807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27c1ff7e0e6367707e9014f5f505813c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27c1ff7e0e6367707e9014f5f505813c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/luzhisheng.mp3
+Dependencies: []

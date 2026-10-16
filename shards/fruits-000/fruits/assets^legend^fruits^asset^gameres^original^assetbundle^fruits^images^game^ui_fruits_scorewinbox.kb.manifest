@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3810485427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd433d8a00760ab7809a5e42eecbffdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd433d8a00760ab7809a5e42eecbffdc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_ScoreWinbox.png
+Dependencies: []
