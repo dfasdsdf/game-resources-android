@@ -1,7 +1,7 @@
 {
     "generation": "u2022",
     "platform": "Fish3D_Android",
-    "version": "fqzs-20261014",
+    "version": "2.0.0.19",
     "bundles": [
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^audios^1.kb",
@@ -1440,9 +1440,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^config^bytes^bubblelanguages.kb",
-            "hash": "326dfb64b82f63b757cec1465f824df0fae1be08dda7b03a49ac1e6c95566155",
-            "crc": 1311174221,
-            "size": 11327,
+            "hash": "1749aca87bad9ab52fbd05eb217ef08fb6dfa894dd4df98417d307b7cdeb7f00",
+            "crc": 187468005,
+            "size": 11895,
             "dependencies": []
         },
         {
@@ -4100,9 +4100,9 @@
         },
         {
             "name": "fish3d/assets^legend^fish3d^asset^gameres^prefabs^models^fish10907.kb",
-            "hash": "b5afa50777fac0209e5d00cd0de722f1",
-            "crc": 2564031273,
-            "size": 850130,
+            "hash": "d5d704c7c40281be7b6bdf614b38ece7",
+            "crc": 815354347,
+            "size": 849839,
             "dependencies": []
         },
         {
@@ -13271,9 +13271,9 @@
         },
         {
             "name": "gamehall/assets^legend^gamehall^asset^gameres^prefabs^ui^ui_login.kb",
-            "hash": "235301d248827cbdedf9037a6c9dd691",
-            "crc": 2476467640,
-            "size": 18662291,
+            "hash": "1a6b4eafcfb8f37a09b4547bef044b03",
+            "crc": 1011953502,
+            "size": 18463299,
             "dependencies": []
         },
         {
