@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 364540106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c49ca851962c9647dab5a2fa297ed33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c49ca851962c9647dab5a2fa297ed33
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Audios/116.wav
+Dependencies: []
