@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4119190959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42a177b7a72f2a3e3be67c1ec19ec0d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42a177b7a72f2a3e3be67c1ec19ec0d9
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_SND_SELGRID_BIGWARN.ogg
+Dependencies: []
