@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 461531537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5f0059821d3277f48e77d90ace1d0fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e5f0059821d3277f48e77d90ace1d0fa
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/gold.ogg
+Dependencies: []
