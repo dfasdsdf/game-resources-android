@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2314962553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e78b0d8609994f074d83c359ccfb220e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e78b0d8609994f074d83c359ccfb220e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_ADD_GOLD.ogg
+Dependencies: []
