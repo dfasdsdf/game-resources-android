@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 337379358
+CRC: 1320389563
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98492de2bc7cb3c392fd7517def432ef
+    Hash: 52eb671d17db5eb9cc7cfc8752ee8f17
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9372662e05ede815898c391bbc5766da
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 98492de2bc7cb3c392fd7517def432ef
+    Hash: 52eb671d17db5eb9cc7cfc8752ee8f17
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,4 +25,5 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number5/fruits_num.png
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number5/fruits_num.mat
 - Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number5/fruits_num.fontsettings
-Dependencies: []
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/Fish3D_Android/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^number5^fruits_num-grouped.kb

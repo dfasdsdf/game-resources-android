@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3854446640
+CRC: 1917926448
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ce9c921b2c6e1f99666167d4edc28adf
+    Hash: 4eee99cd70691bc0263107a6683e558b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 295169abb5d439586f2d77e475c49e5c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ce9c921b2c6e1f99666167d4edc28adf
+    Hash: 4eee99cd70691bc0263107a6683e558b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,6 +33,4 @@ Assets:
 - Assets/Legend/Fruits/Asset/GameRes/Original/Game_Normal/Game_524/Atlas/UI_Fruits_Font.mat
 - Assets/Legend/Fruits/Asset/GameRes/Original/Game_Normal/Game_524/Atlas/UI_Fruits_Font.prefab
 - Assets/Legend/Fruits/Asset/GameRes/Original/Game_Normal/Game_524/Atlas/UI_Fruits_Font.png
-Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/fqzs-2026-10-14/resources/u2022/Fish3D_Android/fqzs-20261014/fruits/assets^legend^fruits^asset^gameres^original^third^ngui^resources^shaders^unlit
-  - transparent colored.kb
+Dependencies: []
