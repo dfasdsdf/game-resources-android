@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4028088833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b2eb4e0241ec9382429d9c416b12fff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9b2eb4e0241ec9382429d9c416b12fff
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/jiantou.png
+Dependencies: []

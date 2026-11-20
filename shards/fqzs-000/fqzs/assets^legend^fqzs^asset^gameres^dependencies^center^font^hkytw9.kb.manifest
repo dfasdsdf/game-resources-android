@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3130102445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39f2ad22a8e2f0b8dfc752d88af054a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39f2ad22a8e2f0b8dfc752d88af054a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/Center/Font/HKYTW9.TTF
+Dependencies: []

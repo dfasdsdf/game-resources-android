@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 117053002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9b171ba7860d999e442d7407b5a1e64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9b171ba7860d999e442d7407b5a1e64
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/lbt.png
+Dependencies: []

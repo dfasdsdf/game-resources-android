@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3109563345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8a336dc4befea1ff7b4ef4a3fb1127d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d8a336dc4befea1ff7b4ef4a3fb1127d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/js10.png
+Dependencies: []

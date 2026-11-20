@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3054015993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88aebaf9ccb3a7698044eb458f67606c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 88aebaf9ccb3a7698044eb458f67606c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/laoying.wav
+Dependencies: []
