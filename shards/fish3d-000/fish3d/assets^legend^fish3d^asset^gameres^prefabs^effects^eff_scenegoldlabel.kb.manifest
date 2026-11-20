@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1916468660
+CRC: 2406716103
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4c419e97dcf5954f337b0c080c171215
+    Hash: ddd26e2d3b251c89220bbbab07fca87d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8308e63863a188b168869b25569075e8
+    Hash: a3d1df835df302b090afd597b4bfcb62
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4c419e97dcf5954f337b0c080c171215
+    Hash: ddd26e2d3b251c89220bbbab07fca87d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,8 +32,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -45,8 +43,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: BMSymbol
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
-- AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
 Assets:
 - Assets/Legend/Fish3D/Asset/GameRes/Prefabs/Effects/Eff_SceneGoldLabel.prefab
 Dependencies: []
