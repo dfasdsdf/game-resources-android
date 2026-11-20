@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 278892759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd83f77521f8e98d446ef9472a75e82c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd83f77521f8e98d446ef9472a75e82c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_ShuLine.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2506949040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a16bdc72f25c729be555bac154b45a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a16bdc72f25c729be555bac154b45a5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_StopRobot_3.png
+Dependencies: []

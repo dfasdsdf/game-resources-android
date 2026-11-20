@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 66773907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 760b9741d54a668c57aefc47f7a4b4fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 760b9741d54a668c57aefc47f7a4b4fa
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/shuihuchuan.mp3
+Dependencies: []

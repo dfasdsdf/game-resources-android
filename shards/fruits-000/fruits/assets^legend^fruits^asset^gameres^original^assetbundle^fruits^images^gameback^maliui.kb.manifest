@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 48500711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a99ed8f884ce82b46ee34b5bdd86815b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a99ed8f884ce82b46ee34b5bdd86815b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/GameBack/maliUI.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3681178767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c043cc7b10e9e2ad5c7b0f00e8c7e1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c043cc7b10e9e2ad5c7b0f00e8c7e1d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_Bank_3.png
+Dependencies: []

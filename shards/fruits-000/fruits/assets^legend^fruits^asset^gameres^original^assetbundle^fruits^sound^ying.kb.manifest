@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3687372675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aa3d4d16e34839bc925ed4abc8c284e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1aa3d4d16e34839bc925ed4abc8c284e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/ying.mp3
+Dependencies: []

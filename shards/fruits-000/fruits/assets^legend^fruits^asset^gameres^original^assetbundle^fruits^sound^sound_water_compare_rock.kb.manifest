@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1103958843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24ad520becad9c149c7e80e22dc95941
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24ad520becad9c149c7e80e22dc95941
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_compare_rock.mp3
+Dependencies: []

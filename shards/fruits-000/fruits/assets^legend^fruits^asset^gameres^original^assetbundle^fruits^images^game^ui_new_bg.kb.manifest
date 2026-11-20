@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2856628914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c7c917f55aed2a489df5e156a5b043d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c7c917f55aed2a489df5e156a5b043d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_New_Bg.jpg
+Dependencies: []

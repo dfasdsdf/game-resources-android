@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1942408864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db578ffdb7f1fa05f5faa5f4837d6fb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: db578ffdb7f1fa05f5faa5f4837d6fb5
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/11dian.mp3
+Dependencies: []
