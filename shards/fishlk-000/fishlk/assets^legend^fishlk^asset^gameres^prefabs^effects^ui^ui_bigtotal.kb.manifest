@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1701293176
+CRC: 704871632
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 94389ed1a1ff640edf85eaf90a3e6280
+    Hash: 8da11fee1ecdeff9d700f5c89fe2d436
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cffac7e0e4dbd5b5fb742b44ff395c30
+    Hash: 82ead398942d1713399d4358ea9a6ab9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 94389ed1a1ff640edf85eaf90a3e6280
+    Hash: 8da11fee1ecdeff9d700f5c89fe2d436
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,8 +36,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -49,8 +47,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: BMSymbol
 - AssemblyName: Assembly-CSharp
   ClassName: UIRect/AnchorPoint
-- AssemblyName: Assembly-CSharp
-  ClassName: UISpriteData
 Assets:
 - Assets/Legend/FishLK/Asset/GameRes/Prefabs/Effects/ui/UI_BigTotal.prefab
 Dependencies: []
