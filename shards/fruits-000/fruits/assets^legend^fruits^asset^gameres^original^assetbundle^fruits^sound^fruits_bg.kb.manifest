@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4238741464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3607502ec31b25ee2de729587befc859
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3607502ec31b25ee2de729587befc859
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/fruits_bg.mp3
+Dependencies: []

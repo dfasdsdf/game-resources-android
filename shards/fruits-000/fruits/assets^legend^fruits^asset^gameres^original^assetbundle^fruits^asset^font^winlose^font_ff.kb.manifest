@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 686546046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca22fab541ee31ffc38a2cfc6ce83cf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ca22fab541ee31ffc38a2cfc6ce83cf3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.png
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.fontsettings
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/WinLose/font_ff.mat
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/release-2026-11-20-2.0.0.27/HotResources/resources/u2022/Fish3D_Android/2.0.0.27/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^asset^font^winlose^font_ff-grouped.kb

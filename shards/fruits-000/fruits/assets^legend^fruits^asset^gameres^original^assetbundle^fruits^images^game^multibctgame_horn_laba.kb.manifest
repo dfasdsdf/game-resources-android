@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1535054592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85d183d8101d17f0ec596c716d3cf82d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 85d183d8101d17f0ec596c716d3cf82d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/MultiBCTGame_horn_laba.png
+Dependencies: []
