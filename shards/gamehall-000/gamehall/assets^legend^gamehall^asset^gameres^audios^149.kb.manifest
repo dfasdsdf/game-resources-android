@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3525188178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2bf4626feb9700c45092bdc97a522aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e2bf4626feb9700c45092bdc97a522aa
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Audios/149.ogg
+Dependencies: []
