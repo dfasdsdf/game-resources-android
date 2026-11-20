@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1214661023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 449d3e9fe10b1ffc5750a53614a3fa80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 449d3e9fe10b1ffc5750a53614a3fa80
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/wukong.ogg
+Dependencies: []
