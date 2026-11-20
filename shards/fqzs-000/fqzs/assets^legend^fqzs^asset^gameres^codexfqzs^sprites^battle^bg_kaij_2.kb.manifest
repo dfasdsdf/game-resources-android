@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3154899353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 231c48109ece4d6d44348d1634601259
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 231c48109ece4d6d44348d1634601259
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/bg_kaij_2.png
+Dependencies: []

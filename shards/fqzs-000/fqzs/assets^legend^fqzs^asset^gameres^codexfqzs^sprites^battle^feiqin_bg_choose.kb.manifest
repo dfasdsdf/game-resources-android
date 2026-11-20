@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2878058475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7895b9e05deae81716699d292af834e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7895b9e05deae81716699d292af834e3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/feiqin_bg_choose.png
+Dependencies: []

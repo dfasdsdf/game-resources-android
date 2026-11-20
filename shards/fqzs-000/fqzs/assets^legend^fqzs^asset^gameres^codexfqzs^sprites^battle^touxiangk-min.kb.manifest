@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1598807345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d1d1f02740e0ea9059d48f261a2452f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6d1d1f02740e0ea9059d48f261a2452f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/touxiangk-min.png
+Dependencies: []

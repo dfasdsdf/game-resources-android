@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4145235723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 208491e9563ec23eb715e23b48a67a47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 208491e9563ec23eb715e23b48a67a47
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/shayu/fqzs_yinsha.json
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/shayu/fqzs_yinsha.png
+Dependencies: []

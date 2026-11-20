@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3135747792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5827533a7ac2e89bf78f183e27b3f74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f5827533a7ac2e89bf78f183e27b3f74
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/icon_setting_jsys.png
+Dependencies: []

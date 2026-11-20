@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3990675874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 382b588de958b4d4c3e0d4bc96e8f6ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 382b588de958b4d4c3e0d4bc96e8f6ba
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/leizhu.png
+Dependencies: []
